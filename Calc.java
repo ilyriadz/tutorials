@@ -16,10 +16,9 @@
 package ilyriadz.tutorials;
 
 // Calc.java
+// Simple program show how to declare and use methods
 
 import java.util.Scanner;
-
-// Simple program show how to declare and use methods
 
 /**
  *
