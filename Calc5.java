@@ -48,5 +48,8 @@ public class Calc5
         System.out.printf(
             "sum(%d, %d, %d, %d, %d) return %d%n", 
                 2, 4, 6, 8, 10, sum(2, 4, 6, 8, 10));
+        
+        int arrayOfInts[] = {1, 11, 22, 33, 44, 55, 66, 77, 88, 99};
+        System.out.printf("sum(arrayOfInts) return %d%n", sum(arrayOfInts));
     }
 }
