@@ -17,6 +17,9 @@ package ilyriadz.tutorials;
 
 import java.util.Scanner;
 
+// Calc4.java
+// method with more than one argument
+
 /**
  *
  * @author ilyriadz
